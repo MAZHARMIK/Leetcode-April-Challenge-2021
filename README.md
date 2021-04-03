@@ -27,5 +27,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Ones%20and%20Zeroes"><img src="https://static.tvtropes.org/pmwiki/pub/images/ones-zeros2_2950.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			</tr>
+      <tr>
+			  <td>Longest Valid Parentheses</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Longest%20Valid%20Parentheses%20(2%20Approaches)"><img src="https://codlrc.org/sites/default/files/u23/Parentheses_ShaneBecker.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

@@ -21,5 +21,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/blob/main/Palindrome%20Linked%20List"><img src="https://image.slidesharecdn.com/palindromes-151127131855-lva1-app6891/95/palindromes-1-638.jpg?cb=1448630365" width="400" height="240"></a>
 			  </td>
 			</tr>
+			</tr>
+      <tr>
+			  <td>Ones and Zeroes</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Ones%20and%20Zeroes"><img src="https://static.tvtropes.org/pmwiki/pub/images/ones-zeros2_2950.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

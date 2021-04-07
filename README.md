@@ -48,5 +48,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Minimum%20Operations%20to%20Make%20Array%20Equal"><img src="https://ichef.bbci.co.uk/images/ic/1280xn/p06lkf24.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Determine if String Halves Are Alike</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/edit/main/README.md"><img src="https://www.thoughtco.com/thmb/YFzn1wpr3sZNEUwBx4PQrq5xXlY=/4032x2545/filters:fill%28auto,1%29/vowels-58b8323e5f9b588080990e0a.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

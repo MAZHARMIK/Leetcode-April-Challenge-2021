@@ -53,5 +53,15 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/edit/main/README.md"><img src="https://www.thoughtco.com/thmb/YFzn1wpr3sZNEUwBx4PQrq5xXlY=/4032x2545/filters:fill%28auto,1%29/vowels-58b8323e5f9b588080990e0a.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Inorder Successor in BST</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Inorder%20Successor%20in%20BST"><img src="https://i.ytimg.com/vi/5cPbNCrdotA/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Letter Combinations of a Phone Number</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Letter%20Combinations%20of%20a%20Phone%20Number"><img src="https://jooinn.com/images/metal-phone-dialpad.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

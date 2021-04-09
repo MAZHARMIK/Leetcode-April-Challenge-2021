@@ -63,5 +63,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Letter%20Combinations%20of%20a%20Phone%20Number"><img src="https://jooinn.com/images/metal-phone-dialpad.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Verifying an Alien Dictionary</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Verifying%20an%20Alien%20Dictionary"><img src="https://res.cloudinary.com/teepublic/image/private/s--CtG66d-p--/t_Preview/b_rgb:000000,c_limit,f_jpg,h_630,q_90,w_630/v1600356694/production/designs/14119927_0.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

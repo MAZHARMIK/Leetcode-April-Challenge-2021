@@ -75,7 +75,12 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
 			</tr>
 			<tr>
 			  <td>Deepest Leaves Sum</td>
-        <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/blob/main/Deepest_Leaves_Sum.cpp"><img src="https://i.ytimg.com/vi/9uA0y_rvSC0/maxresdefault.jpg" width="400" height="240"></a>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Beautiful_Arrangement_II.cpp"><img src="https://i.ytimg.com/vi/9uA0y_rvSC0/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Beautiful Arrangement II</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/blob/main/Deepest_Leaves_Sum.cpp"><img src="https://www.123hairandbeauty.co.uk/blog/wp-content/uploads/2017/02/hello-beautiful.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
 		</tbody>

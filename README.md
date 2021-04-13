@@ -83,5 +83,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/blob/main/Deepest_Leaves_Sum.cpp"><img src="https://www.123hairandbeauty.co.uk/blog/wp-content/uploads/2017/02/hello-beautiful.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Flatten Nested List Iterator</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Flatten%20Nested%20List%20Iterator"><img src="https://images.vexels.com/media/users/3/191922/preview2/9034547885082b6e4c4461904501c1fe-flatten-the-curve-covid-lettering.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

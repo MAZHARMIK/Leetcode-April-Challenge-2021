@@ -94,6 +94,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
 			  </td>
 			</tr>
 			<tr>
+			  <td>Minimum Swaps to Group All 1's Together</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Sliding%20Window/Minimum_Swaps_to_Group_All_1s_Together.cpp"><img src="https://1.bp.blogspot.com/-Qwowo95m6rM/X0R8RzJOxPI/AAAAAAAAiio/ans8hbe5YvwQVEwTlpNIsIqujjUBwLPYwCLcBGAsYHQ/s1600/sliding%2Bwindow%2Bpattern%2B-%2Bgrokking%2Bcoding%2Binterview%2Bcourse.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Fibonacci Number</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/blob/main/Fibonacci%20Number"><img src="https://qph.fs.quoracdn.net/main-qimg-a5cfa3821ffcae67b58c31c267196d0f-c" width="400" height="240"></a>
 			  </td>

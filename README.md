@@ -103,5 +103,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/blob/main/Fibonacci%20Number"><img src="https://qph.fs.quoracdn.net/main-qimg-a5cfa3821ffcae67b58c31c267196d0f-c" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Remove All Adjacent Duplicates in String II</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/blob/main/Remove%20All%20Adjacent_Duplicates_in_String_II.cpp"><img src="https://macsources.com/wp-content/uploads/2016/02/featured-stack.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

@@ -109,7 +109,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
 			  </td>
 			</tr>
 			<tr>
-			  <td>Remove All Adjacent Duplicates in String II</td>
+			  <td>Number of Submatrices That Sum to Target</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Number%20of%20Submatrices%20That%20Sum%20to%20Target"><img src="https://i.ytimg.com/vi/1LnBODcASwk/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>

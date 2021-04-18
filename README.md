@@ -114,7 +114,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
 			  </td>
 			</tr>
 			<tr>
-			  <td>Number of Submatrices That Sum to Target</td>
+			  <td>Remove Nth Node From End of List</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/blob/main/Remove_Nth_Node_From_End_of_List.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/CPT-LinkedLists-deletingnode.svg/1920px-CPT-LinkedLists-deletingnode.svg.png" width="400" height="240"></a>
 			  </td>
 			</tr>

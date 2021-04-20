@@ -123,5 +123,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Combination_Sum_IV.cpp"><img src="https://www.w3.org/2011/Talks/01-14-steven-phenotype/backtracking.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>N-ary Tree Preorder Traversal</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/N-Ary%20Tree/N-ary_Tree_Preorder_Traversal.cpp"><img src="https://www.geeksforgeeks.org/wp-content/uploads/maryintial.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

@@ -128,5 +128,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/N-Ary%20Tree/N-ary_Tree_Preorder_Traversal.cpp"><img src="https://www.geeksforgeeks.org/wp-content/uploads/maryintial.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Triangle</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Triangle"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Pascal_triangle_modulo_5.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

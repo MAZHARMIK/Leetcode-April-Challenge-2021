@@ -133,5 +133,15 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Triangle"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Pascal_triangle_modulo_5.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Missing Number In Arithmetic Progression</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Missing%20Number%20In%20Arithmetic%20Progression"><img src="https://school.eckovation.com/wp-content/uploads/2017/06/2-2.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Brick Wall</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Brick%20Wall"><img src="https://traditionalbrickandstone.co.uk/wp-content/uploads/2015/07/Autrique1.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

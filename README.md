@@ -143,5 +143,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Brick%20Wall"><img src="https://traditionalbrickandstone.co.uk/wp-content/uploads/2015/07/Autrique1.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Count Binary Substrings</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/strings"><img src="https://fedoramagazine.org/wp-content/uploads/2019/11/1s-and-0s.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

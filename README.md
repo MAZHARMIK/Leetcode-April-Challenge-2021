@@ -153,5 +153,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Critical%20Connections%20in%20a%20Network"><img src="https://fanart.tv/fanart/movies/37135/hdmovieclearart/tarzan-53e9dc7904a1c.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Rotate Image</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Rotate%20Image"><img src="https://cdn.onlinewebfonts.com/svg/img_215526.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

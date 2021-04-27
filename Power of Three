@@ -1,8 +1,23 @@
+//Approach-1
 class Solution {
 public:
     bool isPowerOfThree(int n) {
         if (n <= 0)
             return false;
         return 1162261467 % n == 0;
+    }
+};
+
+//Approach-2
+class Solution {
+public:
+    bool isPowerOfThree(int n) {
+        if(n < 0)
+            return false;
+        if(n == 0 || n == 1)
+            return n;
+        double power = log10(n)/log10(3);
+        
+        return power==int(power);
     }
 };

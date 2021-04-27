@@ -163,5 +163,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Heap/Furthest_Building_You_Can_Reach.cpp"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/da0f7900-db69-4d39-a142-77b472f57849/d96sfkh-08c5b1e9-6270-4fa7-9fda-f9d0ad31286f.jpg/v1/fill/w_1024,h_1365,q_75,strp/portal_jump_by_projectglue-d96sfkh.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kYTBmNzkwMC1kYjY5LTRkMzktYTE0Mi03N2I0NzJmNTc4NDkvZDk2c2ZraC0wOGM1YjFlOS02MjcwLTRmYTctOWZkYS1mOWQwYWQzMTI4NmYuanBnIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTEzNjUifV1dfQ.12twGFdd6MkvuHT8uhF0IlF5v6gvWNmXzbXAvkPd_Ow" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Power of Three</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/blob/main/Power%20of%20Three"><img src="https://www.doterra.com/medias/9841289756702.jpg?context=bWFzdGVyfHJvb3R8OTk1NTZ8aW1hZ2UvanBlZ3xoZDMvaGMwLzg3OTkzNjgzMTQ5MTAuanBnfGNmMzA3MzUxM2I4MzRiYjNkMTg5ODI3ZWU2YzM2NTdjZjdhZDc3NTFjNTlhODhlNjE4MDE4OTVhOGJjYWQ5MDM" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

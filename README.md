@@ -168,5 +168,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Leetcode-April-Challenge-2021/blob/main/Power%20of%20Three"><img src="https://www.doterra.com/medias/9841289756702.jpg?context=bWFzdGVyfHJvb3R8OTk1NTZ8aW1hZ2UvanBlZ3xoZDMvaGMwLzg3OTkzNjgzMTQ5MTAuanBnfGNmMzA3MzUxM2I4MzRiYjNkMTg5ODI3ZWU2YzM2NTdjZjdhZDc3NTFjNTlhODhlNjE4MDE4OTVhOGJjYWQ5MDM" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Unique Paths II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Unique%20Paths%20II%20(DP%20and%20Memoized)"><img src="" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

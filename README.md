@@ -173,5 +173,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Unique%20Paths%20II%20(DP%20and%20Memoized)"><img src="https://www.400coups.ch/images/detailed/52/maze2.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Unique Paths II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array"><img src="https://miro.medium.com/max/1200/1*gsXm317Hrd71EjYNghNJuA.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

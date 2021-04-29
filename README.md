@@ -174,7 +174,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/april
 			  </td>
 			</tr>
 			<tr>
-			  <td>Unique Paths II</td>
+			  <td>Find First and Last Position of Element in Sorted Array</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array"><img src="https://miro.medium.com/max/1200/1*gsXm317Hrd71EjYNghNJuA.png" width="400" height="240"></a>
 			  </td>
 			</tr>
